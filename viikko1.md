@@ -15,7 +15,6 @@ Vapaa-ajallani tykkään:
 |----------|----------|----------|
 | Pitkä  | Pullea  | Tyhmä  |
 | Ilkeä  | Kiva  | Ihminen  |
-| Sotkija | Leipuri | Tyhmempi |
-Hanpen ja Chimay > maumau
+>mau
 ---
 ```print hello world```
