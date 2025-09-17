@@ -11,11 +11,13 @@ Vapaa-ajallani tykkään:
 - Pelata koneella
 - Tehdä ruokaa
 - Leikkiä kissojeni kanssa
-| Chimay | Hanpen | Minä |
-| :---: | :---: | :---: |
-| Pitkä  | Pullea  | Tyhmä  |
-| Sotkija  | Siisti  | Ihminen  |
-| Ilkeä  | Kiltti  | meh  |
+
+| Chimay | Hanpen |
+|----------|----------|
+| Pitkä  | Pullea  |
+| Ilkeä  | Kiva  |
+| Sotkija | Siisti |
+
 >mau
 ---
 ```print hello world```
