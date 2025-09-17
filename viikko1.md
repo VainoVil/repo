@@ -1,6 +1,6 @@
-### Minä
+# Minä
 ## Hei!
-# Nimeni on **Väinö.**
+### Nimeni on **Väinö.**
 Minulla on kaksi kissaa
 1. **Chimay**
 2. **Hanpen**
